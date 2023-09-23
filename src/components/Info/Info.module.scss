@@ -1,0 +1,33 @@
+.infoContainer{
+    width: 19.8125rem;
+    height: 24.9375rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1.3rem;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.infoTextName{
+    color:var(--white);
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.infoTextRole{
+    color:var(--orange-100);
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.infoAboutInterests{
+    margin-top: 2rem;
+    flex-direction: column;
+    gap:3rem;
+    display: flex;
+    width: 15.4375rem;
+    height: 12.5625rem;
+}

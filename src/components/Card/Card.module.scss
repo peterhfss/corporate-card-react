@@ -1,0 +1,9 @@
+.cardContainer{
+    width: 19.8125rem;
+    height: 48.75rem;
+    background: var(--background-card);
+    border-radius: 0.625rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
